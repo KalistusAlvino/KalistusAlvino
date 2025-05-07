@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Kalistus Alvino**.
+Perkenalkan nama saya **Kalistus Alvino**. Mahasiswa Calon Lulusan **Sistem Informasi**
 
-Saya seorang **Peserta Kampus Merdeka** di [Bangkit Academy](https://dashboard.bangkit.academy/).\
+Saya merupakan **Alumni Kampus Merdeka** di [Bangkit Academy](https://dashboard.bangkit.academy/) dengan learning path **Android Developer**.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/kalistus-alvino-1b365424a) ku ya.
 
 ### Github Statistic
